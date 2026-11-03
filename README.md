@@ -8,7 +8,6 @@ Templates, playbooks and AI workflows I use as a communications and marketing ma
 | [`menu-builder-skill`](menu-builder-skill) | A step-by-step AI workflow for building a restaurant or café menu in Canva from a house template, proofreading it and putting it online | Hospitality marketers, small food businesses |
 | [`email-playbook`](email-playbook) | How I write offer-led marketing emails: start with the reader's problem, state the terms plainly, one call to action | Anyone writing CRM or newsletter emails |
 | [`pr-stay-tracker`](pr-stay-tracker) | A tracker for press and journalist familiarisation stays, adapted from an influencer sheet | Hotel, travel and hospitality PR |
-| [`side-project-brand-page`](side-project-brand-page) | A one-page HTML template for showing off a side project's brand identity, ready for GitHub Pages | Designers and marketers building a portfolio |
 
 ## Why this exists
 
