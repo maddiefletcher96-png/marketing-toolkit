@@ -1,6 +1,6 @@
 # Marketing toolkit
 
-Templates, playbooks and AI workflows I use as a communications and marketing manager in hospitality and consumer brands. Everything here has been stripped back to work for any brand, so take what's useful.
+Templates, playbooks and AI workflows for marketing and comms in hospitality and consumer brands. Everything here has been stripped back to work for any brand, so take what's useful.
 
 | Folder | What it is | Who it's for |
 |---|---|---|
@@ -21,7 +21,7 @@ The skills (the `SKILL.md` files) are written for [Claude](https://claude.ai), b
 
 ## About me
 
-I'm Maddie Fletcher, a communications and marketing manager with around seven years across hospitality, FMCG and agency-side work. I studied History of Art and grew up working in kitchens, which is probably why so much of this is about food, places and how things are said.
+I'm Maddie. I work in marketing and comms, and I kept rebuilding the same checklists and briefs from scratch, so I wrote them down properly. If one saves you an afternoon, that's the point.
 
 ## Licence
 
